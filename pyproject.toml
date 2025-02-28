@@ -1,7 +1,7 @@
 [project]
-name = "wout-middelhoven"
+name = "openai-deep-research-to-pdf"
 version = "0.1.0"
-description = "Add your description here"
+description = "Preprocess Markdown for pandoc>pdflatex>PDF"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = ["qrcode", "pillow"]
